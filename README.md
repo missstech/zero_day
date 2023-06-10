@@ -5,7 +5,7 @@ Create and setup your Git and GitHub account
 ## Features
 
 - Feature a markdown project
-- Feature uploaded to git
+- Feature uploaded to git in zeroday repo
 
 
 ## Installation
